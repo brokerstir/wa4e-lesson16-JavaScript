@@ -21,7 +21,7 @@ if ( ! isset($_SESSION['user_id']) ) {
 <!DOCTYPE html>
 <html>
 <head>
-<title>Robert Risk | Resume Profiles</title>
+<title>Broker Stir | Resume Profiles</title>
 <?php
 
 require_once "bootstrap.php";

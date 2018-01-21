@@ -66,7 +66,7 @@ if ( isset($_POST['email']) && isset($_POST['pass']) ) {
 
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Robert Risk | Resume Profiles</title>
+<title>Broker Stir | Resume Profiles</title>
 </head>
 <body>
 <div class="container">

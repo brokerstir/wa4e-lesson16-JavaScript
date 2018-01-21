@@ -22,7 +22,7 @@ if ( isset($_POST['logout']) ) {
 <head>
 
     <!-- home page for autocrud assignment by dr. chuck at wa4e.com -->
-    <title>Robert Risk | Resume Profiles</title>
+    <title>Broker Stir | Resume Profiles</title>
     <?php //require_once "bootstrap.php"; ?>
 
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
@@ -38,7 +38,7 @@ if ( isset($_POST['logout']) ) {
 
     <div class="container">
 
-        <h1>Robert's Resume Profiles</h1>
+        <h1>Resume Profiles</h1>
 
         <?php
         if ( isset($_SESSION['success']) ) {
